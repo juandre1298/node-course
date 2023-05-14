@@ -1,0 +1,9 @@
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/cursos/programacion
+
+###
+
+PUT http://localhost:3000/

@@ -1,0 +1,14 @@
+{
+  "name": "clase-npm",
+  "version": "1.0.0",
+  "description": "mi primer paquete de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juandre1298",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
